@@ -23,6 +23,8 @@ public class TeacherGrading{
 
 			}
 
+			max = max + grades[i];
+
 		}
 
 		Arrays.sort(Grades);
